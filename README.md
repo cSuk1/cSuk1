@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cSuk1
-- 👀 I’m interested in webSecurity & webDev & System & Network
-- 🌱 I’m currently learning C/C++ Linux MySQL Redis 
+- 👋 Hi, I’m @Andromeda
+- 👀 I’m interested in Java/Cpp/JavaScript Spring DBMS Redis
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ech0uname@qq.com, and my blog https://www.tsuk1.cn/
 
