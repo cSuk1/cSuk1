@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andromeda
-- 👀 I’m interested in Java/Cpp/JavaScript Spring DBMS Redis
+- 👀 I’m interested in Java/C++ Redis
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ech0uname@qq.com, and my blog https://www.tsuk1.cn/
