@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Andromeda
-- 👀 I’m interested in Java C++ Redis Backend OS
+- 🐧 Now I’m a backend development intern at Tencent
+- 👀 I’m focusing on research in the search engine field
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ech0uname@qq.com, and my blog https://www.tsuk1.cn/
