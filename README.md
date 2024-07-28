@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andromeda
-- 🐧 Now I’m a backend development intern at Tencent
+- 🐧 Now I’m a backend development intern at Tencent WXG
 - 👀 I’m focusing on research in the search engine field
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
