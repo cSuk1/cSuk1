@@ -1,3 +1,7 @@
-Bachelor's degree from Sichuan University
+🎓 Bachelor's degree from Sichuan University
 
-Work at Tencent WXG for retrieval
+🔍 Working at Tencent WXG | Building retrieval systems
+
+🧠 Learning LLM & Agent technologies
+
+⚡ Proficient in C++ & Golang
